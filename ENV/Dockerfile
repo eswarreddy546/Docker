@@ -1,3 +1,5 @@
 FROM run:latest
 
-ENV key=value
+ENV course=docker\
+    trainer=eswar\
+       duration=2months
